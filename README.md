@@ -39,7 +39,7 @@ Analytical tools: Excel, Python libraries, Statsmodels, Sklearn Linear regressio
 
 *Hospice Type*: C-community based, R- residential (hospital based).
 
-![image](https://user-images.githubusercontent.com/95148782/188041343-a7835532-c8ae-4af1-9fad-dd72b22ed34a.png)
+![image](https://user-images.githubusercontent.com/95148782/188041598-38b0199d-d931-45f4-995d-3cceb4bf936c.png)
 
 ![image](https://user-images.githubusercontent.com/95148782/188041404-d595fd42-71a7-4635-8e25-4507aea94c3d.png)
 
