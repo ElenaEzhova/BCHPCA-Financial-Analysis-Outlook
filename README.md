@@ -32,13 +32,16 @@ Analytical tools: Excel, Python libraries, Statsmodels, Sklearn Linear regressio
 ## **Data Understanding**
 
 *Years*:  2017, 2018, 2019, 2020 years have complete data and are well represented by total BC hospices. 
+
 *Number of hospices*: 70 hospices. 
-*Health regions in BC*: 5 regional health territory where the hospices are registered and operating. 
+
+*Health regions in BC*: 5 regional health territory where the hospices are registered and operating.
+
 *Hospice Type*: C-community based, R- residential (hospital based).
 
-![image](https://user-images.githubusercontent.com/95148782/188039411-2699e3a2-b839-45f8-b725-7c4f55bcea55.png)
+![image](https://user-images.githubusercontent.com/95148782/188041343-a7835532-c8ae-4af1-9fad-dd72b22ed34a.png)
 
-![image](https://user-images.githubusercontent.com/95148782/188039472-8fdce661-237d-4647-8ad1-5c9ae098bdcd.png)
+![image](https://user-images.githubusercontent.com/95148782/188041404-d595fd42-71a7-4635-8e25-4507aea94c3d.png)
 
 ***65+Population***: the domain expert advised that the major influencing factor of services growth is growing aging population.
 
@@ -71,7 +74,7 @@ Although the average growth in Government funding appears to outpace the average
 8.	Community hospices cannot rely on government funding as correlation analysis shows less support for Services expenses compared to residential ones. At the same time their expenses are linked to 65+population more strongly than in residential hospices.
 9.	Evaluation metrics of linear regression confirm that relationships between Services expenses and 65+population dynamics are statistically significant, but this indicator alone is not enough to explain and help predict future expenses.
 
-## **Conclusions and Recommendations **
+## *Conclusions and Recommendations *
 
 1. Government funding is growing at 2.9% average in 4-year period with increase in 2019 and drop in 2020. Compared to other growth rates Services Expenses (16%), and 65+population (6.8%) over the same period it is obvious that government funding is lagging behind. Consequently, hospices have to double revenues coming from other sources to compensate and to ensure each hospice addresses the growing demand of its services. Thus, currently it would be recommended planning yearly funding increase linked to Health Care Price Index increase and senior population increase. 
 2. The current financial model is not sustainable because increasing demand for services (services expenses) is mainly supported by increasing income from fundraising events and gifts from other charities. This is the only source of income with a stable growth trend, due to which the share of government funding and donations declined in 2019-2020. At the same time, the source is unstable and depends on external circumstances such as COVID. Indeed, the share of fundraising revenue was 65% in other revenue source until 2019 and dropped to 57% in 2020. Thus, it would be recommended to deploy social media platforms and explore ways to conduct fundraising events there. 
